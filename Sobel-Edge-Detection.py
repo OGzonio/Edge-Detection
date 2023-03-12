@@ -44,4 +44,4 @@ def EdgeDetection(img_path):
     cv2.destroyAllWindows()
 
 # Call the function with the path to the input image
-EdgeDetection('test3.png')
+EdgeDetection('')#Filename
